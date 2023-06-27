@@ -1,7 +1,7 @@
 ﻿
 
 
-Solution.Generate(2);
+Solution.Generate(5);
 
 
 public class Solution
@@ -14,14 +14,21 @@ public class Solution
         // for each row
         {
             IList<int> newRow = new List<int>();
-            newRow.Add(1);
+            newRow.Add(1); // first element in row is always 1
 
-            // IF (i < 2)
-            //      init newRow with (i + 1) 1's
-            // ELSE
-            //      
+            for (int j = 1; j < i; j++)
+            // for each element in row
+            {
+                newRow.Add(pascalsTriangle[i - 1][j - 1] + pascalsTriangle[i - 1][j]);
+            }
+            
+            if (i > 0)
+            // if not the first row
+            {
+                newRow.Add(1); // last element in row is always 1
+            }
 
-            pascalsTriangle[i] = newRow; // add new row to triangle
+            pascalsTriangle.Add(newRow); // add new row to triangle
         }
 
         return pascalsTriangle;
