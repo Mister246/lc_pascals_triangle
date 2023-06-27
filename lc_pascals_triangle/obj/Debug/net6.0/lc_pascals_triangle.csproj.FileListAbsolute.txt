@@ -1,0 +1,15 @@
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\bin\Debug\net6.0\lc_pascals_triangle.exe
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\bin\Debug\net6.0\lc_pascals_triangle.deps.json
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\bin\Debug\net6.0\lc_pascals_triangle.runtimeconfig.json
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\bin\Debug\net6.0\lc_pascals_triangle.dll
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\bin\Debug\net6.0\lc_pascals_triangle.pdb
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\obj\Debug\net6.0\lc_pascals_triangle.csproj.AssemblyReference.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\obj\Debug\net6.0\lc_pascals_triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\obj\Debug\net6.0\lc_pascals_triangle.AssemblyInfoInputs.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\obj\Debug\net6.0\lc_pascals_triangle.AssemblyInfo.cs
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\obj\Debug\net6.0\lc_pascals_triangle.csproj.CoreCompileInputs.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\obj\Debug\net6.0\lc_pascals_triangle.dll
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\obj\Debug\net6.0\refint\lc_pascals_triangle.dll
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\obj\Debug\net6.0\lc_pascals_triangle.pdb
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\obj\Debug\net6.0\lc_pascals_triangle.genruntimeconfig.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_pascals_triangle\lc_pascals_triangle\obj\Debug\net6.0\ref\lc_pascals_triangle.dll
